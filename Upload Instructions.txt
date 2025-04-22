@@ -1,0 +1,8 @@
+cd C:\Users\georg\Documents\Upload
+git init
+git remote remove origin
+git remote add origin https://github.com/George6561/Chess-Learning.git
+git add .
+git commit -m "Uploaded files from Documents/Upload"
+git branch -M main
+git push -u origin main --force

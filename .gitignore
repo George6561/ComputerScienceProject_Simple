@@ -1,0 +1,13 @@
+# Ignore target directory and its contents
+target/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore Maven and build artifacts
+*.log
+.idea/
+.vscode/
